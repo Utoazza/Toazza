@@ -2,7 +2,7 @@
 
 ## Estrutura básica
 
-<p align="center"> O meu website <a href="https://utoazza.github.io/UlissesToazza">https://utoazza.github.io/UlissesToazza</a> contém as seguintes estruturas HTML:</p>
+<p align="center"> O meu website <a href="https://utoazza.github.io/Toazza">https://utoazza.github.io/Toazza</a> contém as seguintes estruturas HTML:</p>
 
 <p>1. < !DOCTYPE html >: Indica ao navegador que o documento é um arquivo HTML5.</p>
 
