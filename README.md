@@ -45,7 +45,8 @@
 
 Bootstrap é uma estrutura de front-end popular usada para criar sites responsivos e modernos. Ele é baseado em HTML, CSS e JavaScript e contém um conjunto de estilos pré-definidos e componentes que podem ser facilmente personalizados.</p>
 
-![Bootstrap](https://user-images.githubusercontent.com/95324388/219985932-45ee0316-d4f5-4b1f-9150-5309b355844a.png)
+![Bootstrap](https://user-images.githubusercontent.com/95324388/221070075-1991d128-7243-48cb-a9c9-cdcb3953669a.png)
+
 
 
 <br><br>
