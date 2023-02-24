@@ -2,7 +2,7 @@
 
 ## Estrutura básica
 
-<p align="center"> O meu website <a href="https://utoazza.github.io/Toazza">https://utoazza.github.io/Toazza</a> contém as seguintes estruturas HTML:</p>
+<p align="center"> O meu website <a href="https://utoazza.github.io/Toazza/">https://utoazza.github.io/Toazza/</a> contém as seguintes estruturas HTML:</p>
 
 <p>1. < !DOCTYPE html >: Indica ao navegador que o documento é um arquivo HTML5.</p>
 
@@ -88,5 +88,5 @@ Foram os meus primeiros projetos com HTML e CSS, desenvolvido no curso Do Zero a
 
 </p>
 <p align="center">
-<a align="center" href="https://utoazza.github.io/UlissesToazza/"> <br>Segue o link do meu Portifólio</a>
+<a align="center" href="https://utoazza.github.io/Toazza/"> <br>Segue o link do meu Portifólio</a>
 </p>
